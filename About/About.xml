@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>ED-ReverseCycleCooler BetterCoolers</name>
+	<author>Jaxxa</author>
+	<url>https://ludeon.com/forums/index.php?topic=15606.0</url>
+	<description>
+	Requires: Community Core Library, BetterCoolers, ED-PoweredVents
+	
+This module changes the cooler to have a rotate option; this allows you to switch it between cooling a room and using its output to warm the same room.
+
+And uses the Graphics from BetterCoolers.
+
+
+BetterVents: code and art by Latta - packaged by Skullywag
+	</description>
+</ModMetaData>
