@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModDependencieMetaData>
+  <Dependencies>
+	<Dependency>
+		<DiskName>ED-ReverseCycleCooler</DiskName>
+		<Description></Description>
+		<Url></Url>
+	</Dependency>
+	<Dependency>
+		<DiskName>BetterCoolers-BetterCoolers1.1</DiskName>
+		<Description></Description>
+		<Url></Url>
+	</Dependency>
+  </Dependencies>
+</ModDependencieMetaData>
